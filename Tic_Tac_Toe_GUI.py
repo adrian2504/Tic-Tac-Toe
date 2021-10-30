@@ -7,6 +7,7 @@ import finaltictactoe as game
 
 pygame.init()
 
+# setting the screen dimesnsion, can be edited further
 SCREEN_WIDTH  = 255
 SCREEN_HEIGHT = 255
 
